@@ -60,32 +60,69 @@
       {
         "name": "Maksud Mirsalayev",
         "role": "Founder",
-        "bio": "Passionate advocate for social change with 10+ years in nonprofit leadership and technology innovation.",
+        "bio": "Passionate student for social change with interest for nonprofit leadership and technology innovation.",
         "location": "Azerbaijan, BA",
-        "image": "https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&w=400&h=400&fit=crop",
+        "image": "github.com/TuqayW/dataforhoh/blob/main/551386509_17842798974581391_2608596087642935505_n.jpg?raw=true",
         "skills": [
-          "Social Innovation",
-          "CEO",
+          "Company Management",
+          "Founder",
           "Community Building"
         ],
         "social": {
-          "linkedin": "https://linkedin.com/in/example",
-          "email": "maksud@example.com"
+          "instagram": "https://www.instagram.com/mirsalayevmaksud",
+          "email": "maksud@gmail.com"
+        }
+      },
+      {
+        "name": "Müjgan Sarajlı",
+        "role": "CEO",
+        "bio": "Passionate student for social change with interest for nonprofit leadership and technology innovation.",
+        "location": "Azerbaijan, BA",
+        "image": "github.com/TuqayW/dataforhoh/blob/main/551386509_17842798974581391_2608596087642935505_n.jpg?raw=true",
+        "skills": [
+          "Company Management",
+          "CEO",
+          "Managing People"
+        ],
+        "social": {
+          "instagram": "https://www.instagram.com/mujgan_sr",
+          "email": "mujgan@gmail.com"
+        }
+      },
+      {
+        "name": "Aysu Ismailova",
+        "role": "Co-Founder",
+        "bio": "Passionate student for social change with interest for nonprofit leadership and technology innovation.",
+        "location": "Azerbaijan, BA",
+        "image": "github.com/TuqayW/dataforhoh/blob/main/551386509_17842798974581391_2608596087642935505_n.jpg?raw=true",
+        "skills": [
+          "Working with people",
+          "Founder",
+          "Managing People"
+        ],
+        "social": {
+          "instagram": "https://www.instagram.com/is_aysu",
+          "email": "aysu@gmail.com"
+        },
+        {
+        "name": "Alya Cabbarli",
+        "role": "CEO",
+        "bio": "Passionate student for social change with interest for nonprofit leadership and technology innovation.",
+        "location": "Azerbaijan, BA",
+        "image": "github.com/TuqayW/dataforhoh/blob/main/551386509_17842798974581391_2608596087642935505_n.jpg?raw=true",
+        "skills": [
+          "Working with people",
+          "CEO",
+          "Managing People"
+        ],
+        "social": {
+          "instagram": "https://www.instagram.com/alyaa_.j",
+          "email": "alya@gmail.com"
         }
       }
     ],
     "advisory": [
-      {
-        "name": "Dr. Robert Johnson",
-        "role": "Strategic Advisor",
-        "bio": "Former CEO of Global Impact Alliance.",
-        "location": "—",
-        "skills": [
-          "Nonprofit Leadership"
-        ],
-        "expertise": "Nonprofit Leadership & Social Entrepreneurship",
-        "background": "Former CEO of Global Impact Alliance"
-      }
+      
     ]
   }
 }
