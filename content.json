@@ -1,0 +1,100 @@
+{
+  "numbers": {
+    "countdown": {
+      "days": 45,
+      "hours": 12,
+      "minutes": 30,
+      "seconds": 15
+    },
+    "journey": {
+      "percent": 75,
+      "milestones": [
+        "Concept & Planning",
+        "Design & Development",
+        "Testing & Launch Prep"
+      ]
+    },
+    "livesToImpact": "1M+",
+    "communities": "50+"
+  },
+  "faq": [
+    {
+      "question": "What is Hands of Humanity?",
+      "answer": "Hands of Humanity is a humanitarian initiative based in Baku, Azerbaijan, dedicated to supporting people in need — including the homeless, children, and vulnerable individuals. We also serve as a bridge for everyone, helping with job opportunities, access to resources, and support in daily life. This is not just a project — it's the voice of humanity."
+    }
+  ],
+  "partners": {
+    "metrics": {
+      "partnerOrganizations": "25+",
+      "countriesReached": "15",
+      "livesImpacted": "100K+",
+      "activeProjects": "50+",
+      "communityOrganizations": "—",
+      "corporatePartners": "—",
+      "recognitionAwards": "—"
+    },
+    "categories": [
+      {
+        "title": "Community Organizations",
+        "description": "Local nonprofits and community groups making direct impact",
+        "partners": [
+          {
+            "name": "Community Center Alliance",
+            "type": "Nonprofit Network"
+          },
+          {
+            "name": "Local Food Bank Coalition",
+            "type": "Hunger Relief"
+          }
+        ]
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "Hands of Humanity has transformed how we connect with volunteers.",
+        "author": "Sarah Johnson",
+        "role": "Director, Community Care Foundation",
+        "organization": "Nonprofit Partner"
+      },
+      {
+        "quote": "Our employees are more engaged than ever.",
+        "author": "Michael Chen",
+        "role": "CSR Manager",
+        "organization": "Tech Solutions Inc."
+      }
+    ]
+  },
+  "team": {
+    "core": [
+      {
+        "name": "Maksud Mirsalayev",
+        "role": "Founder & CEO",
+        "bio": "Passionate advocate for social change with 10+ years in nonprofit leadership and technology innovation.",
+        "location": "Azerbaijan, BA",
+        "image": "https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&w=400&h=400&fit=crop",
+        "skills": [
+          "Social Innovation",
+          "CEO",
+          "Community Building"
+        ],
+        "social": {
+          "linkedin": "https://linkedin.com/in/example",
+          "email": "alex@example.com"
+        }
+      }
+    ],
+    "advisory": [
+      {
+        "name": "Dr. Robert Johnson",
+        "role": "Strategic Advisor",
+        "bio": "Former CEO of Global Impact Alliance.",
+        "location": "—",
+        "skills": [
+          "Nonprofit Leadership"
+        ],
+        "expertise": "Nonprofit Leadership & Social Entrepreneurship",
+        "background": "Former CEO of Global Impact Alliance"
+      }
+    ]
+  }
+}
