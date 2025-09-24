@@ -1,17 +1,12 @@
 {
   "numbers": {
-    "countdown": {
-      "days": 45,
-      "hours": 12,
-      "minutes": 30,
-      "seconds": 15
-    },
+    "countdown": { "targetIso": "2025-09-28T14:40:00Z" },
     "journey": {
       "percent": 25,
       "milestones": [
-        "Concept & Planning",
-        "Design & Development",
-        "Testing & Launch Prep"
+        "Planning & Gathering Team",
+        "Website & Official Date",
+        "Full Launch"
       ]
     },
     "livesToImpact": "1",
@@ -49,13 +44,13 @@
       {
         "quote": "Hands of Humanity has transformed how we connect with volunteers.",
         "author": "Maksud",
-        "role": "CEO",
+        "role": "Founder",
         "organization": "Hands of Humanity"
       },
       {
         "quote": "Our employees are more engaged than ever.",
-        "author": "Tuqay",
-        "role": "IT guy",
+        "author": "Mujgan",
+        "role": "CEO",
         "organization": "Hands of Humanity"
       }
     ]
@@ -64,7 +59,7 @@
     "core": [
       {
         "name": "Maksud Mirsalayev",
-        "role": "Founder & CEO",
+        "role": "Founder",
         "bio": "Passionate advocate for social change with 10+ years in nonprofit leadership and technology innovation.",
         "location": "Azerbaijan, BA",
         "image": "https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&w=400&h=400&fit=crop",
