@@ -7,14 +7,14 @@
       "seconds": 15
     },
     "journey": {
-      "percent": 75,
+      "percent": 25,
       "milestones": [
         "Concept & Planning",
         "Design & Development",
         "Testing & Launch Prep"
       ]
     },
-    "livesToImpact": "0",
+    "livesToImpact": "1",
     "communities": "1"
   },
   "faq": [
@@ -25,10 +25,10 @@
   ],
   "partners": {
     "metrics": {
-      "partnerOrganizations": "25+",
-      "countriesReached": "15",
-      "livesImpacted": "100K+",
-      "activeProjects": "50+",
+      "partnerOrganizations": "0",
+      "countriesReached": "1",
+      "livesImpacted": "1",
+      "activeProjects": "1",
       "communityOrganizations": "—",
       "corporatePartners": "—",
       "recognitionAwards": "—"
@@ -39,12 +39,8 @@
         "description": "Local nonprofits and community groups making direct impact",
         "partners": [
           {
-            "name": "Community Center Alliance",
-            "type": "Nonprofit Network"
-          },
-          {
-            "name": "Local Food Bank Coalition",
-            "type": "Hunger Relief"
+            "name": "Baku European lyceum",
+            "type": "School"
           }
         ]
       }
@@ -52,15 +48,15 @@
     "testimonials": [
       {
         "quote": "Hands of Humanity has transformed how we connect with volunteers.",
-        "author": "Sarah Johnson",
-        "role": "Director, Community Care Foundation",
-        "organization": "Nonprofit Partner"
+        "author": "Maksud",
+        "role": "CEO",
+        "organization": "Hands of Humanity"
       },
       {
         "quote": "Our employees are more engaged than ever.",
-        "author": "Michael Chen",
-        "role": "CSR Manager",
-        "organization": "Tech Solutions Inc."
+        "author": "Tuqay",
+        "role": "IT guy",
+        "organization": "Hands of Humanity"
       }
     ]
   },
@@ -79,7 +75,7 @@
         ],
         "social": {
           "linkedin": "https://linkedin.com/in/example",
-          "email": "alex@example.com"
+          "email": "maksud@example.com"
         }
       }
     ],
