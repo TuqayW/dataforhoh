@@ -11,7 +11,7 @@
         "Full Launch"
       ]
     },
-    "livesToImpact": "1",
+    "livesToImpact": "100+",
     "communities": "1"
   },
   "faq": [
@@ -24,7 +24,7 @@
     "metrics": {
       "partnerOrganizations": "0",
       "countriesReached": "1",
-      "livesImpacted": "1",
+      "livesImpacted": "2",
       "activeProjects": "1",
       "communityOrganizations": "—",
       "corporatePartners": "—",
